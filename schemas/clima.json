@@ -1,0 +1,7 @@
+[
+  {"name": "fecha_hora", "type": "DATETIME", "mode": "REQUIRED"},
+  {"name": "temperatura_c", "type": "FLOAT", "mode": "REQUIRED"},
+  {"name": "precipitacion_mm", "type": "FLOAT", "mode": "REQUIRED"},
+  {"name": "viento_kmh", "type": "FLOAT", "mode": "REQUIRED"},
+  {"name": "codigo_clima", "type": "INTEGER", "mode": "REQUIRED"}
+]
